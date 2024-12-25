@@ -1,0 +1,194 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#body {
+    background: #07081A;
+}
+
+#header {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 28px 0px 0px 0px;
+}
+
+#headerdiv {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #261C51
+}
+
+#footerlogotxt {
+    display: flex;
+    align-items: center;
+}
+#headerlogo {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 16px;
+    gap: 8px;
+}
+
+#headerlinks {
+    display: flex;
+    align-items: center;
+    display: flex;
+    gap: 16px;
+}
+
+#home {
+    text-decoration: none;
+    font-size: 16px;
+    color: #8CE900;
+    
+}
+
+.headertxt {
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+}
+
+#main {
+    margin-top: 64px;
+    display: flex;
+    justify-content: center;
+}
+
+#maindiv {
+    max-width: 1040px;
+    width: 100%;
+}
+
+#mainwidth {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#maintxt {
+    max-width: 583px;
+    
+}
+
+#mainh1 {
+    font-size: 48px;
+    color: white;
+}
+
+#mainimg {
+    width: 314px;
+}
+
+#project {
+    display: flex;
+    justify-content: center;
+    margin-top: 64px;
+}
+
+#projectwidth {
+    max-width: 1040px;
+    width: 100%;
+    color: white;
+    background: #242642;
+    padding: 40px 72px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.projectnumber {
+    width: 168px;
+}
+
+.number {
+    color: #8CE900;
+    font-family: Inter;
+    font-size: 56px;
+}
+
+#numbertxt {
+    color: #C0C0C0;
+    font-size: 20px;
+}
+
+#footer {
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 64px;
+}
+
+#logowidth {
+    display: flex;
+    gap: 8px;
+}
+
+#footerwidth {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#footerdiv {
+    width: 264px;
+    font-size: 16px;
+    color: white;
+    align-items: center;
+    gap: 8px;
+}
+
+#footertxt {
+    margin-top: 16px;
+}
+
+#footerlinks {
+    display: flex;
+    justify-content: center;
+}
+
+#footerlinkwidth {
+    width: 82px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.footerhrefs {
+    text-decoration: none;
+    color: #8CE900;
+}
+
+.footerhref {
+    text-decoration: none;
+    color: white;
+}
+
+#footercontact {
+    display: flex;
+}
+
+#footercontacts {
+    width: 186px;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.contacttxts {
+    color: #8CE900;
+}
+
+.contacttxt {
+    color: white;
+}
+
